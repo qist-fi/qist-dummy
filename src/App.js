@@ -10,7 +10,11 @@ const telegramLink = "https://t.me/sentidosol";
 function App() {
   return (
     <div className="App">
-      <header className="App-header">Qist.fi</header>
+      <img src="./qist logo.png" className="app-logo" />
+      <h3 className="app-title">
+        Qist is a protocol to trade and lend crypto on-chain in a
+        shariah-compliant way on Solana
+      </h3>
       <div className="project-links">
         <a href={pitchLink}>Pitch</a>
         <a href={deckLink}>Deck</a>
