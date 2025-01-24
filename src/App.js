@@ -13,7 +13,7 @@ function App() {
       <img src="./qist logo.png" className="app-logo" />
       <h3 className="app-title">
         Qist is a protocol to trade and lend crypto on-chain in a
-        shariah-compliant way on Solana
+        Shariah-compliant way on Solana
       </h3>
       <div className="project-links">
         <a href={pitchLink}>Pitch</a>
