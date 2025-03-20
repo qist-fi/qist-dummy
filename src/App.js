@@ -2,7 +2,7 @@ import logo from "./logo.svg";
 import "./App.css";
 
 const pitchLink =
-  "https://www.loom.com/share/91f8b8bf24e14b8aa3c1db19bc6821c3";
+  "https://www.loom.com/share/32eddc78feac41dd8ddd97c0d351b40b";
 
 const deckLink = "https://docsend.com/v/2sj65/qist_deck";
 
