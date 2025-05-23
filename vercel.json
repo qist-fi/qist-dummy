@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/beta(/.*)?",
-      "destination": "https://qist-ui-rho.vercel.app/stablepool"
+      "destination": "https://qist-ui-rho.vercel.app"
     }
   ]
 }
